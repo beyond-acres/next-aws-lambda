@@ -1,6 +1,6 @@
 {
  "name": "@beyond-acres/next-aws-lambda",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Deploy your NextJS with plain old lambdas.  No Lambda at the end.  No S3 bucket.",
   "main": "index.js",
   "keywords": [
