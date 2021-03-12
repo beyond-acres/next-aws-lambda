@@ -1,5 +1,5 @@
 {
-  "name": "next-aws-lambda",
+ "name": "@beyond-acres/next-aws-lambda",
   "version": "0.1.0",
   "description": "Deploy your NextJS with plain old lambdas.  No Lambda at the end.  No S3 bucket.",
   "main": "index.js",
@@ -10,6 +10,6 @@
     "next"
   ],
   "scripts": {},
-  "author": "Chris Garvis <cgarvis@gmail.com>",
+  "author": "Chris Garvis <chris@beyondacres.co>",
   "license": "MIT"
 }
